@@ -15,8 +15,9 @@ I help organisations strategically leverage Generative AI—specialising in Chat
 - AI Ethics & Content Provenance Solutions
 
 **Blockchain & Regulatory Technology:**
-- Smart Contract Development (Rust)
+- Smart Contract, Decentralised App Development and Tokenisation using Solidity
 - AI Compliance & Regulatory Technology
+- Leading product initiatives to tokenize real-world assets
 - Content Provenance Detection & Copyright Protection
 - Security-First dApp Architecture
 - EU AI Act Implementation Solutions
