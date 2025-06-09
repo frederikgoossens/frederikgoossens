@@ -1,51 +1,37 @@
 # Frederik Goossens 👋
 
-### AI Strategist • Blockchain Developer • Web3 Compliance Architect | Cambridge EMBA
+### Web3 Tooling & Privacy Engineer | Real-Time Dashboards • CLI Apps • Smart Contracts | Cambridge EMBA
 
-**Founder @ [Merlaz](https://merlaz.com) — Building the future of AI accountability, provenance, and compliance on-chain.**
-
-I help organisations harness the full potential of Generative AI, blockchain, and regulatory technology. My mission is to create **trust-first, decentralised systems** that align with evolving standards like the **EU AI Act** while defending against content misuse and model exploitation.
+**Founder @ [Merlaz](https://merlaz.com)** — building decentralised tools for compliance, provenance, and innovation.
 
 ---
 
-### 🛠️ Now Building in Public:
+### 🔧 What I'm Working On
 
-I'm now publishing my work at the intersection of:
-- 🧠 Generative AI Strategy & Automation
-- 🔗 Blockchain + Smart Contracts (Solidity, zk-SNARKs, EVM)
-- 🔍 AI Compliance & EU Regulatory Tooling
-- 🧾 Content Provenance & Copyright Protection
-- 🔒 Privacy-first Infrastructure (Elixir, Vlang, WASM, eBPF)
+I’m currently focused on building public tools at the intersection of:
 
-> Most early work at **Merlaz** was private or advisory. I’m now focusing on **public, open-source tools** and decentralised governance frameworks.
+- 🧠 Privacy & Compliance
+- 🖥️ Real-Time Dashboards (Elixir + LiveView)
+- ⚙️ Cross-Platform CLI Tools (Vlang)
+- 🔗 Smart Contracts & Tokenisation (Solidity, Ethereum)
 
----
-
-### 🌍 Featured Project — **AI Accountability Ecosystem**
-
-A modular system for AI compliance & provenance:
-1. 🧾 **Registry** – EU AI Act–compliant smart contract registry  
-2. 🧬 **Provenance** – Watermark & detect AI-generated content  
-3. ⚖️ **Guidance** – Tools for transparent & ethical AI adoption
-
-Built with Solidity, verified on-chain. Inspired by EU policy, privacy movements, and decentralised governance.
+Most of my past work was private or strategic. I’m now releasing open-source projects that combine decentralised infrastructure, user privacy, and verifiable trust systems.
 
 ---
 
-### 👨‍💻 GitHub Focus for 2025:
+### 🌍 Interests
 
-🔧 Month 1: [Elixir + LiveView] Real-time privacy dashboard  
-⚙️ Month 2: [Vlang CLI] Cross-platform security utilities  
-🔐 Month 3+: Smart contracts, zk-SNARKs, WASM apps  
-
-My long-term mission is to blend AI governance, blockchain engineering, and public transparency.
+- Web3-based registries (compliance, IP, reputation)
+- Decentralised dashboards and observability tools
+- Tokenised access control (NDA, royalty gating)
+- Lightweight tools for self-sovereign data protection
 
 ---
 
-### 🔗 Let’s Connect:
+### 🌐 Connect
 
-- 🌐 [frederikg.com](https://frederikg.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/frederikgoossens/)  
-- 🚀 [Merlaz](https://merlaz.com)
+- [frederikg.com](https://frederikg.com)  
+- [LinkedIn](https://www.linkedin.com/in/frederikgoossens/)  
+- [Merlaz](https://merlaz.com)
 
-📫 Available for collaborations, audits, and strategy consulting.  
+📫 Open to collaboration in Web3, compliance tooling, and privacy tech.
