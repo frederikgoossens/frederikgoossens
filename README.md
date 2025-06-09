@@ -1,6 +1,6 @@
 # Frederik Goossens 👋
 
-### Web3 Tooling & Privacy Engineer | Real-Time Dashboards • CLI Apps • Smart Contracts | Cambridge EMBA
+### Web3 Tooling & Privacy Engineer | Real-Time Dashboards • CLI Apps • Smart Contracts
 
 **Founder @ [Merlaz](https://merlaz.com)** — building decentralised tools for compliance, provenance, and innovation.
 
@@ -8,15 +8,15 @@
 
 ### 🔧 What I'm Working On
 
-I’m currently focused on building public tools at the intersection of:
+Currently focused on public tools at the intersection of:
 
-- 🖥️ Real-Time Dashboards (Elixir + LiveView)
-- ⚙️ Cross-Platform CLI Tools (Vlang)
-- 🔐 Privacy & Self-Sovereign Data Protection
-- 🔗 Smart Contracts & Tokenisation (Solidity, Ethereum)
-- 🧾 **Blockchain-based Proof of Innovation** — a faster, decentralised alternative to traditional patent filing
+- 🖥️ Real-time dashboards (Elixir + LiveView)
+- ⚙️ Cross-platform CLI utilities (Vlang)
+- 🔐 Privacy and self-sovereign data protection
+- 🔗 Smart contracts and tokenisation (Solidity, Ethereum)
+- 🧾 **Blockchain-based proof of innovation** — a faster, decentralised alternative to traditional patent filing
 
-Most of my earlier work was confidential or advisory. I'm now releasing open-source tools combining decentralised infrastructure, verifiable trust systems, and user privacy.
+Most of my previous work was confidential or advisory. I am now releasing open-source tools combining decentralised infrastructure, verifiable trust, and user privacy.
 
 ---
 
@@ -24,7 +24,7 @@ Most of my earlier work was confidential or advisory. I'm now releasing open-sou
 
 - Web3 registries for compliance, IP, and innovation
 - Decentralised dashboards and audit trails
-- Tokenised access systems (NDA + royalty-gated IP)
+- Tokenised access systems (NDA- and royalty-gated IP)
 - Lightweight tools for data protection and cryptographic verification
 
 ---
