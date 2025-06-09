@@ -10,21 +10,22 @@
 
 I’m currently focused on building public tools at the intersection of:
 
-- 🧠 Privacy & Compliance
 - 🖥️ Real-Time Dashboards (Elixir + LiveView)
 - ⚙️ Cross-Platform CLI Tools (Vlang)
+- 🔐 Privacy & Self-Sovereign Data Protection
 - 🔗 Smart Contracts & Tokenisation (Solidity, Ethereum)
+- 🧾 **Blockchain-based Proof of Innovation** — a faster, decentralised alternative to traditional patent filing
 
-Most of my past work was private or strategic. I’m now releasing open-source projects that combine decentralised infrastructure, user privacy, and verifiable trust systems.
+Most of my earlier work was confidential or advisory. I'm now releasing open-source tools combining decentralised infrastructure, verifiable trust systems, and user privacy.
 
 ---
 
 ### 🌍 Interests
 
-- Web3-based registries (compliance, IP, reputation)
-- Decentralised dashboards and observability tools
-- Tokenised access control (NDA, royalty gating)
-- Lightweight tools for self-sovereign data protection
+- Web3 registries for compliance, IP, and innovation
+- Decentralised dashboards and audit trails
+- Tokenised access systems (NDA + royalty-gated IP)
+- Lightweight tools for data protection and cryptographic verification
 
 ---
 
@@ -34,4 +35,4 @@ Most of my past work was private or strategic. I’m now releasing open-source p
 - [LinkedIn](https://www.linkedin.com/in/frederikgoossens/)  
 - [Merlaz](https://merlaz.com)
 
-📫 Open to collaboration in Web3, compliance tooling, and privacy tech.
+📫 Open to collaboration in Web3, privacy, compliance tooling, and blockchain innovation infrastructure.
