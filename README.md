@@ -1,55 +1,51 @@
 # Frederik Goossens 👋
 
-### Generative AI Strategist & Blockchain Developer | AI Compliance, Smart Contracts & Content Provenance | Cambridge EMBA
+### AI Strategist • Blockchain Developer • Web3 Compliance Architect | Cambridge EMBA
 
-**Founder @ [Merlaz](https://merlaz.com) | Building the future of AI governance and provenance on blockchain**
+**Founder @ [Merlaz](https://merlaz.com) — Building the future of AI accountability, provenance, and compliance on-chain.**
 
-I help organisations strategically leverage Generative AI—specialising in ChatGPT-driven solutions, prompt engineering, and AI-powered workflows. Most of my current work at **Merlaz** remains confidential and in stealth mode due to strategic considerations.
+I help organisations harness the full potential of Generative AI, blockchain, and regulatory technology. My mission is to create **trust-first, decentralised systems** that align with evolving standards like the **EU AI Act** while defending against content misuse and model exploitation.
 
-### 🚀 **Current Areas of Expertise (Merlaz):**
+---
 
-**AI Strategy & Governance:**
-- Strategic Generative AI & Automation Consulting  
-- ChatGPT Custom Solutions & Advanced Prompt Engineering
-- AI-driven Workflow Optimisation
-- AI Ethics & Content Provenance Solutions
+### 🛠️ Now Building in Public:
 
-**Blockchain & Regulatory Technology:**
-- Smart Contract, Decentralised App Development and Tokenisation using Solidity
-- AI Compliance & Regulatory Technology
-- Leading product initiatives to tokenize real-world assets
-- Content Provenance Detection & Copyright Protection
-- Security-First dApp Architecture
-- EU AI Act Implementation Solutions
+I'm now publishing my work at the intersection of:
+- 🧠 Generative AI Strategy & Automation
+- 🔗 Blockchain + Smart Contracts (Solidity, zk-SNARKs, EVM)
+- 🔍 AI Compliance & EU Regulatory Tooling
+- 🧾 Content Provenance & Copyright Protection
+- 🔒 Privacy-first Infrastructure (Elixir, Vlang, WASM, eBPF)
 
-### ⭐ **Featured: World's First AI Accountability Ecosystem**
+> Most early work at **Merlaz** was private or advisory. I’m now focusing on **public, open-source tools** and decentralised governance frameworks.
 
-**Three-Pillar AI Accountability Platform:**
-1️⃣ **Registry:** EU AI Act compliance tracking  
-2️⃣ **Provenance:** Content theft detection & copyright protection  
-3️⃣ **Guidance:** Consulting services for ethical AI implementation
+---
 
-*Built with security-first smart contracts, deployed live on Ethereum*
+### 🌍 Featured Project — **AI Accountability Ecosystem**
 
-**Key Features:**
-- 🛡️ Smart contract registry for EU AI Act compliance
-- 🔍 Automated content provenance detection
-- 📊 Real-time AI risk assessment and monitoring
-- ⚖️ Bridging AI ethics, copyright protection, and Web3 transparency
+A modular system for AI compliance & provenance:
+1. 🧾 **Registry** – EU AI Act–compliant smart contract registry  
+2. 🧬 **Provenance** – Watermark & detect AI-generated content  
+3. ⚖️ **Guidance** – Tools for transparent & ethical AI adoption
 
-### 🔒 **Note on GitHub Activity:**
+Built with Solidity, verified on-chain. Inspired by EU policy, privacy movements, and decentralised governance.
 
-Historically, my GitHub profile showed limited visible activity due to strategic advisory roles and confidential client projects. 
+---
 
-**Now expanding into public blockchain development** with my AI Act Compliance and Provenance Registry - the first of many open-source contributions bridging AI strategy with Web3 implementation.
+### 👨‍💻 GitHub Focus for 2025:
 
-I will soon enable visibility for private repository contributions, reflecting ongoing activity frequency.
+🔧 Month 1: [Elixir + LiveView] Real-time privacy dashboard  
+⚙️ Month 2: [Vlang CLI] Cross-platform security utilities  
+🔐 Month 3+: Smart contracts, zk-SNARKs, WASM apps  
 
-### 🌐 **Connect & Learn More:**
+My long-term mission is to blend AI governance, blockchain engineering, and public transparency.
 
-- [🌐 frederikg.com](https://frederikg.com)
-- [🔗 LinkedIn](https://www.linkedin.com/in/frederikgoossens/)
-- [🚀 Merlaz](https://merlaz.com)
+---
 
-📫 **Interested in collaboration or inquiries?**  
-Feel free to reach out directly through LinkedIn or via my personal website.
+### 🔗 Let’s Connect:
+
+- 🌐 [frederikg.com](https://frederikg.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/frederikgoossens/)  
+- 🚀 [Merlaz](https://merlaz.com)
+
+📫 Available for collaborations, audits, and strategy consulting.  
