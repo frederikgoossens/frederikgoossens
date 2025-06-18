@@ -1,22 +1,29 @@
 # Frederik Goossens 👋
 
-### Web3 Tooling & Privacy Engineer | Real-Time Dashboards • CLI Apps • Smart Contracts
+### Web3 Tooling & Privacy Engineer | Smart Contract Auditor and ZK Privacy Protocol Engineer
 
-**Founder @ [Merlaz](https://merlaz.com)** — building decentralised tools for compliance, provenance, and innovation.
+**Founder @ [Merlaz](https://merlaz.com)**
 
 ---
 
-### 🔧 What I'm Working On
+### RATE
 
-Currently focused on public tools at the intersection of:
+- **Smart Contract Audits:**  
+  £350–£450/hour or £4,500–£10,000 per project (fixed scope, depends on codebase and deadlines)
 
-- 🖥️ Real-time dashboards (Elixir + LiveView)
-- ⚙️ Cross-platform CLI utilities (Vlang)
-- 🔐 Privacy and self-sovereign data protection
-- 🔗 Smart contracts and tokenisation (Solidity, Ethereum)
-- 🧾 **Blockchain-based proof of innovation** — a faster, decentralised alternative to traditional patent filing
+- **Zero-Knowledge Privacy Protocol Review:**  
+  £400/hour or from £8,000 per audit (includes ZK circuit and cryptography analysis)
 
-Most of my previous work was confidential or advisory. I am now releasing open-source tools combining decentralised infrastructure, verifiable trust, and user privacy.
+- **Web3 Tooling / Protocol Engineering:**  
+  £300/hour or £2,500/day (ad-hoc consulting, engineering, design reviews)
+
+- **Retainer / Ongoing Advisory:**  
+  From £6,000/month (priority access, monthly hours, strategic advice)
+
+- **Discovery Call:**  
+  No charge for initial 20-minute assessment and scoping
+
+**All rates are exclusive of VAT. Custom quotes for larger engagements or rapid turnaround available.**
 
 ---
 
@@ -43,4 +50,4 @@ Most of my previous work was confidential or advisory. I am now releasing open-s
 - [LinkedIn](https://www.linkedin.com/in/frederikgoossens/)  
 - [Merlaz](https://merlaz.com)
 
-📫 Open to collaboration in Web3, privacy, compliance tooling, and blockchain innovation infrastructure.
+📫 Open to collaboration in Web3, privacy, compliance tooling, blockchain innovation infrastructure, Privacy Protocols, and Smart Contract Auditing.
