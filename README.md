@@ -29,6 +29,14 @@ Most of my previous work was confidential or advisory. I am now releasing open-s
 
 ---
 
+### 🛠️ Why My Profile Is (Currently) Sparse
+
+- From 2012 to 2025, I primarily used Bitbucket and GitLab before fully switching to GitHub.
+- As a result, I am currently rebuilding my portfolio here from scratch.
+- If you’d like more information about a specific project or need validation, please contact me.
+
+---
+
 ### 🌐 Connect
 
 - [frederikg.com](https://frederikg.com)  
