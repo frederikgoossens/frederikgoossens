@@ -12,4 +12,4 @@
 - [LinkedIn](https://www.linkedin.com/in/frederikgoossens/)  
 - [Merlaz](https://merlaz.com)
 
-Open to collaboration in Web3, Smart Contracts, and generally any web development!
+Open to collaborating on any type of blockchain project.
